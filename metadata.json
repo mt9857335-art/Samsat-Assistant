@@ -1,0 +1,7 @@
+{
+  "name": "Samsat - Sam's Assistant",
+  "description": "Samsat is an intelligent personal and executive assistant working dedicatedly for Sam.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
