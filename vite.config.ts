@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return(
-   /base:/Samsat-Assistant plugins
+   base/Samsat-Assistant
   
     plugins: [react(), tailwindcss()],
     resolve: {
