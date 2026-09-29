@@ -4,7 +4,9 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
-  return {
+  return(
+   /base:/Samsat-Assistant plugins
+  
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
